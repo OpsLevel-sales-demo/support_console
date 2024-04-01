@@ -4,7 +4,6 @@ service:
   name: Support Console
   lifecycle: end-of-life
   tier: tier_3
-  product: 
   owner: internal_tools
   language: Ruby
   framework: Sinatra
