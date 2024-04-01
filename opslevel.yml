@@ -11,7 +11,7 @@ service:
   aliases: 
   tags: 
   repositories:
-  - name: OL-Demo/support_console
+  - name: OpsLevel-sales-demo/support_console
     path: "/"
     provider: github
   tools:
