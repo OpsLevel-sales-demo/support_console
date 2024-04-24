@@ -17,3 +17,9 @@ ________________________
 MIT License
 
 http://www.opensource.org/licenses/mit-license
+
+_______________________
+
+Comprehensive RoR (Ruby on Rails) courses
+
+https://www.learnenough.com/blog/best-ruby-on-rails-course
