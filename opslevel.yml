@@ -3,7 +3,7 @@ version: 1
 service:
   name: Support Console
   lifecycle: end-of-life
-  tier: tier_3 
+  tier: tier_2 
   owner: internal_tools
   language: Ruby
   framework: Sinatra
