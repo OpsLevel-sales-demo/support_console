@@ -6,7 +6,7 @@ git_source(:github) do |repo_name|
 end
 
 ruby '2.4.1'
-gem 'rails', '~> 5.1.2'
+gem 'rails', '~> 7.1.5', '>= 7.1.5.2'
 
 # Rails defaults
 gem 'puma', '~> 3.7'
@@ -43,5 +43,5 @@ group :production do
   gem 'pg'
 end
 group :test do
-  gem 'minitest-spec-rails'
+  gem 'minitest-spec-rails', '>= 5.5.0'
 end
