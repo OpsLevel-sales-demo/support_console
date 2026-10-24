@@ -29,7 +29,7 @@ end
 
 # learn-rails
 gem 'bootstrap-sass'
-gem 'gibbon'
+gem 'gibbon', '>= 3.1.0'
 gem 'high_voltage'
 gem 'jquery-rails'
 group :development do
